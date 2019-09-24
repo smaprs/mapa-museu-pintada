@@ -12,3 +12,4 @@ NÃO há autorização para cópia por terceiros.
 Créditos:  
 -As imagens de artes-finais dos painéis do "Museu das Ilhas" neste repositório foram cedidas pela administração do respectivo museu, para montar o mapa online. Não expressada autorização para cópia por terceiros: © "Museu das Ilhas" - Ilha da Pintada - Porto Alegre - Brasil.  
 -As imagens de rua são de autoria dos alunos do referido Curso de Turismo Ecológico, e a estes pertence seu copyright; foi feito upload para suas contas no Mapillary, de onde foram feitos posteriores downloads e adicionadas as imagens a este repositório para uso no mapa online. Não expressada autorização para cópia por terceiros.  
+-Percurso de rua: © OpenStreetMap Contributors
