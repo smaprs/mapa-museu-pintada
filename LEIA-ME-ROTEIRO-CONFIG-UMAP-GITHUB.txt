@@ -1,7 +1,8 @@
 ﻿################################################################################
-ROTEIRO PARA CONFIGURAÇÃO DO MAPA PERSONALIZADO - UMAP
-
-UMAP - https://umap.openstreetmap.co/pt/user/smaprs/
+ROTEIRO PARA CONFIGURAÇÃO DO MAPA PERSONALIZADO
+UMAP:
+https://umap.openstreetmap.co/pt/user/smaprs/
+https://umap.openstreetmap.co/m/2412
 ################################################################################
 
 REPOSITÓRIO DOS DADOS: 
@@ -10,9 +11,17 @@ GIT-HUB: =OSM: s......8
 
 ARQUIVOS DE DADOS VETORIAIS NO GITHUB:
 
-1)MUSEU-PAINEIS-28-UTF8-iframe.csv - planilha CSV geral dos locais, links URLs e coordenadas
-2)Percurso-Museu-de-Rua.osm - linha
-3)Ilha-Pintada-Perimetro.osm - polígono
+1)MUSEU-PAINEIS-28-UTF8-iframe.csv 
+   (planilha CSV geral dos locais, links URLs e coordenadas)
+2)Percurso-Museu-de-Rua.osm (linha)
+3)Ilha-Pintada-Perimetro.osm (polígono)
+
+IMAGENS:
+https://github.com/smaprs/mapa-museu-pintada/tree/master/painel
+https://github.com/smaprs/mapa-museu-pintada/tree/master/local
+
+PLANILHA PONTOS E VETORES:
+https://github.com/smaprs/mapa-museu-pintada/tree/master/dados-vetores
 
 ################################################################################
 CONFIGURAÇÕES DO UMAP:
