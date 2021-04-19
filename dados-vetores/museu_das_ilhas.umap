@@ -1,6 +1,6 @@
 {
   "type": "umap",
-  "uri": "https://umap.openstreetmap.co/pt/map/museu-das-ilhas_2412#10/-30.2193/-51.0535",
+  "uri": "https://umap.openstreetmap.co/pt/map/museu-das-ilhas_2412#12/-30.0003/-51.2282",
   "properties": {
     "easing": true,
     "embedControl": true,
@@ -21,6 +21,7 @@
     },
     "captionBar": true,
     "zoomTo": 17,
+    "iconClass": "Default",
     "limitBounds": {},
     "tilelayer": {
       "tms": false,
@@ -13451,11 +13452,10 @@
             "descript": "Junto ao CTG Madrugada Campeira (esq. Rua Garruchos) - museudasilhaspoa@gmail.com",
             "website": "[[https://www.facebook.com/museu-das-ilhas-978206232226945|facebook/museu-das-ilhas]]",
             "video": "{https://www.youtube.com/embed/-E8hsdlwc60}",
-            "painel": "",
             "local": "https://raw.githubusercontent.com/smaprs/mapa-museu-pintada/master/local/AA-L-G2M-Museu-das-Ilhas-Sede.jpg",
             "_umap_options": {
-              "iconClass": "Default",
-              "iconUrl": "https://raw.githubusercontent.com/smaprs/mapa-museu-pintada/master/Logotipo-museu-50px.jpg"
+              "iconUrl": "https://raw.githubusercontent.com/smaprs/mapa-museu-pintada/master/Logotipo-museu-50px.jpg",
+              "iconClass": "Default"
             }
           },
           "geometry": {
@@ -13475,8 +13475,7 @@
             "descript": "Percurso total: 4,5km - Em frente à Colônia de Pescadores Z5",
             "website": "",
             "video": "",
-            "painel": "https://raw.githubusercontent.com/smaprs/mapa-museu-pintada/master/painel/A02-Museu-de-Percurso-Mapa.jpg",
-            "local": ""
+            "painel": "https://raw.githubusercontent.com/smaprs/mapa-museu-pintada/master/painel/A02-Museu-de-Percurso-Mapa.jpg"
           },
           "geometry": {
             "type": "Point",
@@ -14021,8 +14020,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              -51.22431,
-              -29.9931
+              -51.223497,
+              -29.99002
             ]
           }
         },
@@ -14041,8 +14040,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              -51.22486,
-              -29.99321
+              -51.224377,
+              -29.9931
             ]
           }
         },
@@ -14061,8 +14060,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              -51.22678,
-              -29.99245
+              -51.224817,
+              -29.99321
             ]
           }
         },
@@ -14081,8 +14080,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              -51.22571,
-              -29.99151
+              -51.224007,
+              -29.99218
             ]
           }
         },
@@ -14134,9 +14133,7 @@
             "addr": "Rua do Pescador, 510 - Ilha das Flores - Bairro Arquipélago - Porto Alegre - RS",
             "descript": "Ilha das Flores - Igreja Nossa Senhora do Menino Jesus",
             "website": "",
-            "video": "",
-            "painel": "",
-            "local": ""
+            "video": ""
           },
           "geometry": {
             "type": "Point",
@@ -14174,9 +14171,7 @@
             "addr": "Rua do Pescador, 690 - Ilha das Flores - Bairro Arquipélago - Porto Alegre - RS",
             "descript": "Escola Estadual de Ensino Fundamental Oscar Schmitt",
             "website": "",
-            "video": "",
-            "painel": "",
-            "local": ""
+            "video": ""
           },
           "geometry": {
             "type": "Point",
@@ -14214,9 +14209,7 @@
             "addr": "Rua do Pescador, 22  - Ilha das Flores - Bairro Arquipélago - Porto Alegre - RS",
             "descript": "Ilha das Flores - Marina das Flores",
             "website": "",
-            "video": "",
-            "painel": "",
-            "local": ""
+            "video": ""
           },
           "geometry": {
             "type": "Point",
@@ -14234,9 +14227,7 @@
             "addr": "Rua do Pescador - Ilha das Flores - Bairro Arquipélago - Porto Alegre - RS",
             "descript": "Ilha das Flores - Associação Ilhéus Ecológicos",
             "website": "",
-            "video": "",
-            "painel": "",
-            "local": ""
+            "video": ""
           },
           "geometry": {
             "type": "Point",
