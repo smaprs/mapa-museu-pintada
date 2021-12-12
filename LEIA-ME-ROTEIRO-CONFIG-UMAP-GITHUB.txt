@@ -1,6 +1,8 @@
 ﻿################################################################################
 ROTEIRO PARA CONFIGURAÇÃO DO MAPA PERSONALIZADO
-UMAP:
+UMAP - LINK : http://u.osmfr.org/m/692253/
+----------------------------------------------------------------------------
+DEATIVADOS:
 https://umap.openstreetmap.co/pt/user/smaprs/
 https://umap.openstreetmap.co/m/2412
 ################################################################################
@@ -79,6 +81,7 @@ B) CONFIGURAÇÕES CAMADAS/ARQUIVOS:
 
 Propriedades de formas geométricas:
 
+----------------------------------------------------------------------------
 B1)MUSEU-PAINEIS-28-UTF8-iframe.csv  	
 	NOME: nome: "Museu das Ilhas -  Locais"
 	/28 pontos / CAMPOS: lat; lon (SALVAR ".CSV" COMO UTF-8  e tab)  
@@ -90,6 +93,7 @@ B1)MUSEU-PAINEIS-28-UTF8-iframe.csv
 2) *Mapa do Museu de Percurso* / Forma do ícone: Padrão (quadrinho) 
 	/ Símbolo do ícone: Definir símbolo: (TEXTO) "MAPA" 
 
+----------------------------------------------------------------------------
 B2)Percurso-Museu-de-Rua.osm  (ou .geojson) 	// nome: "Percurso do Museu de Rua" 
 	/ Cor: Yellow / opacidade: 03 / espessura: 25% / preenchimento: off (vazio)
 	NOME: "Perímetro da Ilha da Pintada" 
@@ -97,6 +101,7 @@ DESCRIÇÃO DO OBJETO:
 Percurso contínuo do Museu de Rua: 4,5km
 {{https://raw.githubusercontent.com/smaprs/mapa-museu-pintada/master/Percurso-Museu-Rua.jpg}}
 
+----------------------------------------------------------------------------
 B3)Ilha-Pintada-Perimetro.osm  (ou .geojson) 	// 
 	/ Cor: Aqua / opacidade: 02 / espessura: 15% / preenchimento: off (vazio)
 	NOME: "Perímetro da Ilha da Pintada" 
