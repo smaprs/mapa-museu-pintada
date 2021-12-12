@@ -10,6 +10,7 @@ https://github.com/smaprs/mapa-museu-pintada
 GIT-HUB: =OSM: s......8
 
 ARQUIVOS DE DADOS VETORIAIS NO GITHUB:
+converter xls para csv com: UTF-8 / Tab
 
 1)MUSEU-PAINEIS-28-UTF8-iframe.csv 
    (planilha CSV geral dos locais, links URLs e coordenadas)
@@ -157,3 +158,8 @@ Iframe com altura personalizada (em px): {{{http://iframe.url.com|height}}}
 Iframe com altura e largura personalizados (em px): {{{http://iframe.url.com|height*width}}}
 --- para uma régua horizontal
 ################################################################################
+INFORMAÇÕES GERAIS:
+Bairro Arquipélago
+População estimada: 9.168 hab. (IBGE)
+Área de Ilhas: 43,87km² 
+Densidade: 209 hab/km²
