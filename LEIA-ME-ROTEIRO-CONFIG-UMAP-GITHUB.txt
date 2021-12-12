@@ -2,14 +2,13 @@
 ROTEIRO PARA CONFIGURAÇÃO DO MAPA PERSONALIZADO
 UMAP - LINK : http://u.osmfr.org/m/692253/
 ----------------------------------------------------------------------------
-DEATIVADOS:
+DESATIVADOS:
 https://umap.openstreetmap.co/pt/user/smaprs/
 https://umap.openstreetmap.co/m/2412
 ################################################################################
-
 REPOSITÓRIO DOS DADOS: 
 https://github.com/smaprs/mapa-museu-pintada 
-GIT-HUB: =OSM: s......8
+################################################################################
 
 ARQUIVOS DE DADOS VETORIAIS NO GITHUB:
 converter xls para csv com: UTF-8 / Tab
