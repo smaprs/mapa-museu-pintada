@@ -1,6 +1,6 @@
 {
   "type": "umap",
-  "uri": "https://umap.openstreetmap.fr/pt-br/map/museu-das-ilhas-mapa-do-museu-de-percurso_692253",
+  "uri": "http://umap.openstreetmap.fr/pt-br/map/museu-das-ilhas-mapa-do-museu-de-percurso_692253",
   "properties": {
     "easing": true,
     "embedControl": true,
@@ -8,18 +8,18 @@
     "searchControl": true,
     "datalayersControl": true,
     "zoomControl": true,
-    "longCredit": "Fontes dos dados: \nAlunos do Curso de Turismo Ecológico (polo.cesmar@maristas.org.br); \nMuseu das Ilhas (museudasilhaspoa@gmail.com).",
+    "longCredit": "Fontes dos dados:  \n-Alunos do Projeto Jovem Aprendiz / Turismo Ecológico /Polo Marista de Formação Tecnológica (*polo.cesmar@maristas.org.br*)\n-Teresinha Carvalho da Silva: painéis com o conteúdo histórico \n-Museu das Ilhas  ",
     "slideshow": {},
     "captionBar": true,
     "zoomTo": 17,
     "limitBounds": {},
     "tilelayer": {
-      "minZoom": 0,
-      "maxZoom": 19,
-      "attribution": "map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL",
-      "url_template": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "tms": false,
       "name": "OpenStreetMap",
-      "tms": false
+      "maxZoom": 19,
+      "minZoom": 0,
+      "attribution": "Map data ©  [[http://osm.org/copyright|OpenStreetMap contributors]]",
+      "url_template": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
     },
     "licence": "",
     "description": "** *Memórias e vivências: surpreenda-se com as histórias deste povo.* **  \nRua Doutor Salomão Pires de Abrahão, 160  \n**Ilha da Pintada - Bairro Arquipélago - Porto Alegre - Brasil**  \n*museudasilhaspoa@gmail.com* / [[https://www.facebook.com/museu-das-ilhas-978206232226945|facebook/museu-das-ilhas]]  \n  \nFontes dos dados:  \n-Alunos do Projeto Jovem Aprendiz / Turismo Ecológico /Polo Marista de Formação Tecnológica (*polo.cesmar@maristas.org.br*)\n-Teresinha Carvalho da Silva: painéis com o conteúdo histórico \n-Museu das Ilhas  \n\n* **>>Navegue e clique nos pontos; ou em \"Explorar dados**\" *\n\n[[https://smaprs.github.io/ArquipelagoPOA|Modelo 3D do Bairro Arquipélago]]  \n  \n{{https://raw.githubusercontent.com/smaprs/mapa-museu-pintada/master/Pintada-3D-Qgis2threejs.jpg|350}}",
