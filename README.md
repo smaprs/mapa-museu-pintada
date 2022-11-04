@@ -12,6 +12,6 @@ Mapa produzido com os alunos do Curso de Turismo Ecológico / Projeto Jovem Apre
 -Este mapa online será de acesso público.  
   
 **Créditos:**  
--As imagens de artes-finais dos painéis do "Museu das Ilhas" neste repositório foram cedidas pela administração do museu para montar o mapa online. Não expressada autorização para cópia por terceiros: © "Museu das Ilhas" - Ilha da Pintada - Porto Alegre - Brasil (museudasilhaspoa@gmail.com).   
 -As imagens de rua são de autoria dos alunos do Curso de Turismo Ecológico, e a estes pertence seu copyright (polo.cesmar@maristas.org.br).   
--Percurso de rua, polígono ilha: © OpenStreetMap Contributors
+-Os painéis com o conteúdo histórico e suas artes-finais foram preparados por Teresinha Carvalho da Silva, sendo cedidos para montar este mapa online. Não expressada autorização para cópia por terceiros: © "Museu das Ilhas" - Ilha da Pintada - Porto Alegre - Brasil (museudasilhaspoa@gmail.com).  
+-Percurso de rua, polígono ilha: © OpenStreetMap Contributors  
