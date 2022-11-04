@@ -1,6 +1,6 @@
 # Mapa online "Museu das Ilhas"  
 **Museu de Percurso - Ilha da Pintada - Porto Alegre - Brasil.**  
-Link UMAP: https://umap.openstreetmap.co/m/2412/  
+Link UMAP: http://u.osmfr.org/m/692253/    
   
 Mapa produzido com os alunos do Curso de Turismo Ecológico / Projeto Jovem Aprendiz - Polo Marista de Formação Tecnológica, dentro das atividades do curso, para o Museu das Ilhas.
   
